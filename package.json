@@ -1,0 +1,17 @@
+{
+  "name": "vue3-vite2-realmjs-test",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "realm-web": "^1.3.0",
+    "vue": "^3.1.5"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.1.5",
+    "@vitejs/plugin-vue": "^1.2",
+    "vite": "^2.4.2"
+  }
+}
